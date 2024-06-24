@@ -1,5 +1,5 @@
 module github.com/Yandex-Practicum/42-docker-final
-
+// 1 commit
 go 1.22.0
 
 require (
